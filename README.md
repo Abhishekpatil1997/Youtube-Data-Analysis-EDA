@@ -1,5 +1,6 @@
 #  Project Title: Youtube Data Analysis EDA
 This project involved creating an end-to-end data analysis pipeline to explore insights from YouTube data.
+# **For more details on the analysis, please refer to the attached [PDF report](./Youtube_EDA_Project_Report.pdf).**
 
 The key steps involved were:
 
